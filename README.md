@@ -2,7 +2,7 @@
 
 **Capynacci** is an AI illustration skill framework designed to plan, generate, and edit 16:9 technical article illustrations starring **Capynacci** — an Applied AI Researcher & Tech Founder Capybara.
 
-![Capynacci Sample](assets/capynacci-illustrations/02-capynacci-v2-director.png)
+![Capynacci 5x5 Character Sheet](assets/character-sheets/pose-sheet-5x5.png)
 
 ## About Capynacci IP
 
